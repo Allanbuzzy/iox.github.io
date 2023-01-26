@@ -4,8 +4,8 @@
 
 @font-face {
     font-family: 'iox_gothicregular';
-    src: url('ioxgothic-bold-webfont.woff2') format('woff2'),
-         url('ioxgothic-bold-webfont.woff') format('woff');
+    src: url('https://raw.githubusercontent.com/Allanbuzzy/ioxtvco/blob/main/ioxgothic/ioxgothic-bold-webfont.woff2') format('woff2'),
+         url('https://raw.githubusercontent.com/Allanbuzzy/ioxtvco/blob/main/ioxgothic/ioxgothic-bold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -16,8 +16,8 @@
 
 @font-face {
     font-family: 'iox_gothicextra_bold';
-    src: url('ioxgothic-extrabold-webfont.woff2') format('woff2'),
-         url('ioxgothic-extrabold-webfont.woff') format('woff');
+    src: url('https://raw.githubusercontent.com/Allanbuzzy/ioxtvco/blob/main/ioxgothic/ioxgothic-extrabold-webfont.woff2') format('woff2'),
+         url('https://raw.githubusercontent.com/Allanbuzzy/ioxtvco/blob/main/ioxgothic/ioxgothic-extrabold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -28,8 +28,8 @@
 
 @font-face {
     font-family: 'iox_gothicheavy';
-    src: url('ioxgothic-heavy-webfont.woff2') format('woff2'),
-         url('ioxgothic-heavy-webfont.woff') format('woff');
+    src: url('https://raw.githubusercontent.com/Allanbuzzy/ioxtvco/blob/main/ioxgothic/ioxgothic-heavy-webfont.woff2') format('woff2'),
+         url('https://raw.githubusercontent.com/Allanbuzzy/ioxtvco/blob/main/ioxgothic/ioxgothic-heavy-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -40,8 +40,8 @@
 
 @font-face {
     font-family: 'iox_gothicmedium';
-    src: url('ioxgothic-medium-webfont.woff2') format('woff2'),
-         url('ioxgothic-medium-webfont.woff') format('woff');
+    src: url('https://raw.githubusercontent.com/Allanbuzzy/ioxtvco/blob/main/ioxgothic/ioxgothic-medium-webfont.woff2') format('woff2'),
+         url('https://raw.githubusercontent.com/Allanbuzzy/ioxtvco/blob/main/ioxgothic/ioxgothic-medium-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -52,8 +52,8 @@
 
 @font-face {
     font-family: 'iox_gothicregular';
-    src: url('ioxgothic-regular-webfont.woff2') format('woff2'),
-         url('ioxgothic-regular-webfont.woff') format('woff');
+    src: url('https://raw.githubusercontent.com/Allanbuzzy/ioxtvco/blob/main/ioxgothic/ioxgothic-regular-webfont.woff2') format('woff2'),
+         url('https://raw.githubusercontent.com/Allanbuzzy/ioxtvco/blob/main/ioxgothic/ioxgothic-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -64,8 +64,8 @@
 
 @font-face {
     font-family: 'iox_gothicsemi_bold';
-    src: url('ioxgothic-semibold-webfont.woff2') format('woff2'),
-         url('ioxgothic-semibold-webfont.woff') format('woff');
+    src: url('https://raw.githubusercontent.com/Allanbuzzy/ioxtvco/blob/main/ioxgothic/ioxgothic-semibold-webfont.woff2') format('woff2'),
+         url('https://raw.githubusercontent.com/Allanbuzzy/ioxtvco/blob/main/ioxgothic/ioxgothic-semibold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -76,8 +76,8 @@
 
 @font-face {
     font-family: 'iox_gothicblack';
-    src: url('ioxgothic-black-webfont.woff2') format('woff2'),
-         url('ioxgothic-black-webfont.woff') format('woff');
+    src: url('https://raw.githubusercontent.com/Allanbuzzy/ioxtvco/blob/main/ioxgothic/ioxgothic-black-webfont.woff2') format('woff2'),
+         url('https://raw.githubusercontent.com/Allanbuzzy/ioxtvco/blob/main/ioxgothic/ioxgothic-black-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
